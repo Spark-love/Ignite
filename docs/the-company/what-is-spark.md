@@ -4,8 +4,6 @@ sidebar_position: 1
 
 # 🚀 What is Spark?
 
-### General
-
 From day one, Spark has been dedicated to revolutionizing the experiential dating landscape. We fundamentally believe in creating unforgettable connections through exclusive, personalized experiences. To achieve this, we focus on combining technology and human insight to match individuals based on shared interests and passions.
 
 Our approach to creating exceptional dating experiences involves strategic partnerships with top-tier venues and service providers. While this journey has its challenges, it’s been incredibly rewarding, driven by word-of-mouth and the unique value we provide to our users.
