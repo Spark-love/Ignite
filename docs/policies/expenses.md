@@ -1,15 +1,9 @@
----
-cover: >-
-  https://images.unsplash.com/photo-1554224155-6726b3ff858f?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwzfHxhY2NvdW50aW5nfGVufDB8fHx8MTY1MzQ4OTg0Mg&ixlib=rb-1.2.1&q=80
-coverY: 0
----
-
 # 💳 Expenses
 
-This policy applies to all our employees that need to spend money on work-related activities/items. The idea of this policy is to keep it simple, rather than have a 3000 word that nobody can actually understand. Hence, if something isn’t clear, clarify it with Bailey before spending.\
+This policy applies to all our employees that need to spend money on work-related activities/items. The idea of this policy is to keep it simple, rather than have a 3000 word that nobody can actually understand. Hence, if something isn’t clear, clarify it with Rada before spending.
 
 
-Everything should be charged to the appropriate Ramp card. Do not pay for it yourself and reimburse, unless you have approval from Bailey.\
+Everything should be charged to the appropriate Aspire card. Do not pay for it yourself and reimburse, unless you have approval from Rada or Aman.
 
 
 If reimbursement is needed, we will reimburse the mentioned business expenses, after they are approved, in part or in full, depending on their alignment with this policy.
@@ -27,7 +21,7 @@ Pretty much everything when it comes to expense rules depends on which of the ab
 
 ### Allowed expenses
 
-These two lists set out the things you’re allowed to expense based on the type of trip. For anything that’s not on this list, seek approval from Bailey before spending.
+These two lists set out the things you’re allowed to expense based on the type of trip. For anything that’s not on this list, seek approval from Rada before spending.
 
 #### Job-related
 
@@ -60,22 +54,22 @@ You’re more than welcome to purchase additional upgrades and baggage as a sepa
 
 #### Local transportation
 
-One of the most prominent examples of this is for local transport, where you should be using public transportation. We’re not going to allow expensing an $80 Uber ride when you could have taken the subway for $2.90, for instance.\
+One of the most prominent examples of this is for local transport, where you should be using public transportation. We’re not going to allow expensing an $10 Grab/Bolt ride when you could have taken the BTS & MRT subway for $1., for instance.
 
 
-Examples where it’s acceptable to go for Uber and other ridesharing apps:
+Examples where it’s acceptable to go for Grab/Bolt and other ridesharing apps:
 
 * If you’re sharing the ride with other coworkers and it is cheaper to pool in one ride
 * If you’re transporting company equipment where it’s not practical or safe to do so via public transportation
-* If there’s a safety concern (please don’t ride the BART in SF at 2am)
+* If there’s a safety concern
 * If public transportation will take significantly longer
 
 ## Software
 
-For any SaaS products that are relevant to the entire company, such as SendGrid or Vercel, please talk to Bailey and then use the “Company-wide SaaS” card in Bitwarden.\
+For any SaaS products that are relevant to the entire company, such as SendGrid or Vercel, please talk to Rada and then use the “Company-wide SaaS” Aspire card.
 
 
-For software products that will be used individually, get approval from Bailey. Make sure the product is directly related to your job and yields a benefit in your performance. For instance if you’re a content writer, then Grammarly makes a lot of sense. But if you’re an engineer, you don’t need Grammarly - feel free to misspell all of your GitHub PR descriptions. Just kidding.
+For software products that will be used individually, get approval from Rada. Make sure the product is directly related to your job and yields a benefit in your performance. For instance if you’re a content writer, then Grammarly makes a lot of sense. But if you’re an engineer, you don’t need Grammarly - feel free to misspell all of your GitHub PR descriptions. Just kidding.
 
 ## Workspace
 
@@ -86,9 +80,9 @@ The process here is different depending if you’re looking to get furniture or 
 Here you can request equipment: [https://forms.gle/qeLEKrtj2X1yTNaDA](https://forms.gle/qeLEKrtj2X1yTNaDA)\
 
 
-If you already have a personal device or peripheral that you are willing to use please don't buy a duplicate through Cal.com.
+If you already have a personal device or peripheral that you are willing to use please don't buy a duplicate through Spark.
 
-If you require something which is not listed on the form, please contact compliance@cal.com and each request will be reviewed individually.
+If you require something which is not listed on the form, please contact hr@spark.love and each request will be reviewed individually.
 
 You are only eligible to request equipment if you are a full-time employee and have passed any probationary period (usually a few months after employment). We will place any requests made before this point on hold until you are deemed eligible.
 
@@ -104,13 +98,13 @@ Basically, just go to IKEA and get something reasonable. There’s a Ramp card a
 
 ## Education
 
-You can expense things like courses and books that are directly related to your job or position at Cal.com, including future job positions you may be going for within the company. You can request the purchase of any of these by asking Bailey or Peer.
+You can expense things like courses and books that are directly related to your job or position at Spark, including future job positions you may be going for within the company. You can request the purchase of any of these by asking Rada or Aman.
 
 ## Uploading your documentation
 
 Ramp makes it super easy to upload receipts and submit memos for each of your transactions.
 
-For all transactions above $75 USD, you must upload an invoice.
+For all transactions above $10 USD, you must upload an invoice.
 
 For transactions under that limit, we require either an invoice or if it’s obvious by the statement descriptor what it’s for (e.g. Grammarly), then a detailed memo will suffice. If it says something like “Best Buy”, which could be any number of products, we’ll need a receipt.
 
