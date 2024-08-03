@@ -8,6 +8,55 @@ Everything should be charged to the appropriate Aspire card. Do not pay for it y
 
 If reimbursement is needed, we will reimburse the mentioned business expenses, after they are approved, in part or in full, depending on their alignment with this policy.
 
+
+
+# 🍽️ F&B
+
+At Spark, we believe in supporting the well-being and productivity of our team members. To ensure everyone stays energized and refreshed, we provide a Food & Beverage (F&B) allowance for all employees. Here’s a detailed overview of our F&B allowance policy:
+
+## Food Allowance
+
+Each team member is entitled to a monthly food allowance to cover the cost of meals during work hours. This allowance can be used for purchasing lunch, snacks, and other food items to be consumed during the day.
+
+### Key Points:
+- The food allowance is provided on a monthly basis.
+- The allowance covers meals, snacks, and other food items.
+- Team members can bring their own food or purchase meals as needed.
+
+## Beverage Allowance
+
+We also provide an allowance for beverages to ensure that our team stays hydrated and refreshed throughout the day. Non-alcoholic drinks are permitted under this policy.
+
+### Key Points:
+- The beverage allowance can be used to purchase non-alcoholic drinks such as water, coffee, tea, juice, and soft drinks.
+- Alcoholic drinks are not covered under this allowance, except during specific team events as outlined below.
+
+## Special Events
+
+During specific team events, such as celebrations or team-building activities, alcoholic drinks may be provided. These events will be communicated in advance, and the allowance for alcoholic beverages will be managed separately.
+
+### Key Points:
+- Alcoholic drinks are permitted during designated team events.
+- These events will be pre-approved and communicated to all team members.
+
+## Usage and Reimbursement
+
+To utilize the F&B allowance, team members should use their Aspire card for all related expenses and upload receipts to the Aspire app. The process for reimbursement is as follows:
+
+1. Use the Aspire card for all food and beverage purchases.
+2. Collect receipts for all eligible purchases.
+3. Upload the receipts to the Aspire app.
+4. Ensure the receipts are clear and itemized for review.
+5. Reimbursement will be processed as per the company’s standard procedures.
+
+### Key Points:
+- Use the Aspire card for all F&B expenses.
+- Keep all receipts for eligible purchases.
+- Upload receipts to the Aspire app for reimbursement.
+- Follow the standard reimbursement process.
+
+By adhering to this policy, we ensure that all team members have access to the necessary resources to stay nourished and hydrated, contributing to a productive and enjoyable work environment.
+
 ## Business trips
 
 There are two categories of business trip:
@@ -22,6 +71,7 @@ Pretty much everything when it comes to expense rules depends on which of the ab
 ### Allowed expenses
 
 These two lists set out the things you’re allowed to expense based on the type of trip. For anything that’s not on this list, seek approval from Rada before spending.
+
 
 #### Job-related
 
@@ -143,4 +193,3 @@ All transactions and reimbursements are regularly audited to make sure that we�
 
 Hence, if you’re found not to be in compliance with these rules, not uploading the correct stuff in good time or anything else mentioned here, we will cancel any cards immediately and restrict ability to make future purchases and reimbursements. I want to be focusing on building a billion dollar company, not navigating IRS audits and investigations :)
 
-\
