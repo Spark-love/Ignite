@@ -10,11 +10,11 @@ If reimbursement is needed, we will reimburse the mentioned business expenses, a
 
 
 
-# 🍽️ F&B
+## 🍽️ F&B
 
 At Spark, we believe in supporting the well-being and productivity of our team members. To ensure everyone stays energized and refreshed, we provide a Food & Beverage (F&B) allowance for all employees. Here’s a detailed overview of our F&B allowance policy:
 
-## Food Allowance
+# 🍱 Food Allowance
 
 Each team member is entitled to a monthly food allowance to cover the cost of meals during work hours. This allowance can be used for purchasing lunch, snacks, and other food items to be consumed during the day.
 
@@ -23,7 +23,7 @@ Each team member is entitled to a monthly food allowance to cover the cost of me
 - The allowance covers meals, snacks, and other food items.
 - Team members can bring their own food or purchase meals as needed.
 
-## Beverage Allowance
+## ☕️ Beverage Allowance
 
 We also provide an allowance for beverages to ensure that our team stays hydrated and refreshed throughout the day. Non-alcoholic drinks are permitted under this policy.
 
@@ -31,7 +31,7 @@ We also provide an allowance for beverages to ensure that our team stays hydrate
 - The beverage allowance can be used to purchase non-alcoholic drinks such as water, coffee, tea, juice, and soft drinks.
 - Alcoholic drinks are not covered under this allowance, except during specific team events as outlined below.
 
-## Special Events
+## 🥂 Special Events
 
 During specific team events, such as celebrations or team-building activities, alcoholic drinks may be provided. These events will be communicated in advance, and the allowance for alcoholic beverages will be managed separately.
 
@@ -57,7 +57,7 @@ To utilize the F&B allowance, team members should use their Aspire card for all 
 
 By adhering to this policy, we ensure that all team members have access to the necessary resources to stay nourished and hydrated, contributing to a productive and enjoyable work environment.
 
-## Business trips
+## 🚕 Business trips
 
 There are two categories of business trip:
 
@@ -114,18 +114,18 @@ Examples where it’s acceptable to go for Grab/Bolt and other ridesharing apps:
 * If there’s a safety concern
 * If public transportation will take significantly longer
 
-## Software
+## 📲 Software
 
 For any SaaS products that are relevant to the entire company, such as SendGrid or Vercel, please talk to Rada and then use the “Company-wide SaaS” Aspire card.
 
 
 For software products that will be used individually, get approval from Rada. Make sure the product is directly related to your job and yields a benefit in your performance. For instance if you’re a content writer, then Grammarly makes a lot of sense. But if you’re an engineer, you don’t need Grammarly - feel free to misspell all of your GitHub PR descriptions. Just kidding.
 
-## Workspace
+## 💼 Workspace
 
 The process here is different depending if you’re looking to get furniture or an actual laptop and IT equipment.
 
-### IT equipment
+### 💻 IT equipment
 
 Here you can request equipment: [https://forms.gle/qeLEKrtj2X1yTNaDA](https://forms.gle/qeLEKrtj2X1yTNaDA)\
 
@@ -136,7 +136,7 @@ If you require something which is not listed on the form, please contact hr@spar
 
 You are only eligible to request equipment if you are a full-time employee and have passed any probationary period (usually a few months after employment). We will place any requests made before this point on hold until you are deemed eligible.
 
-### Furniture
+### 🪑 Furniture
 
 The workplace furniture stipend allows you to purchase a desk and a chair.
 
@@ -146,13 +146,13 @@ Chairs are limited to a maximum price of $150. None of those fancy Herman Miller
 
 Basically, just go to IKEA and get something reasonable. There’s a Ramp card assigned to you for workplace furniture to use for this.
 
-## Education
+## 📚 Education
 
 You can expense things like courses and books that are directly related to your job or position at Spark, including future job positions you may be going for within the company. You can request the purchase of any of these by asking Rada or Aman.
 
 ## Uploading your documentation
 
-Ramp makes it super easy to upload receipts and submit memos for each of your transactions.
+Aspire makes it super easy to upload receipts and submit memos for each of your transactions.
 
 For all transactions above $10 USD, you must upload an invoice.
 
